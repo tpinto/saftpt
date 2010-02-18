@@ -1,0 +1,4 @@
+# SAFTPT
+module SAFTPT
+  
+end
